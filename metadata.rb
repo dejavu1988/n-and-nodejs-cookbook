@@ -16,7 +16,7 @@ end
 attribute 'n-and-nodejs/n/version',
   :display_name => 'n version.',
   :description => 'Which version of n to install.',
-  :default => '1.2.13'
+  :default => '1.3.0'
 
 attribute 'n-and-nodejs/nodejs/version',
   :display_name => 'Node.js version',
